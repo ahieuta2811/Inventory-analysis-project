@@ -12,8 +12,8 @@ This analysis aims to identify:
 - Stockout risks
 - Inventory value distribution
 ## Key Metrics
-Inventory Turnover = Monthly Sales / Inventory
-Days of Inventory = (Inventory / Monthly Sales) × 30
+- Inventory Turnover = Monthly Sales / Inventory
+- Days of Inventory = (Inventory / Monthly Sales) × 30
 ## Key Insights
 - Some products have high sales but low inventory.
 - Some products have high inventory but low sales.
